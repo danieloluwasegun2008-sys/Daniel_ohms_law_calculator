@@ -1,5 +1,5 @@
 # Ohm's Law and Power Calculator
-# Author: Awoleye Daniel 
+# Author: Awoneye Daniel 
 # ND1 Mechatronics Engineering, YabaTech
 
 def get_valid_number(prompt):
