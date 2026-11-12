@@ -51,5 +51,5 @@ I added a Calculation History and Session Summary. Every successful calculation 
 What I learned
 I learned how to properly validate user input so the program does not crash when someone types a letter instead of a number. I also learned how to use a list to store previous results and display them neatly at the end.
 Author
-Awoleye Daniel 
+Awoneye Daniel 
 ND1 Mechatronics Engineering, YabaTech
